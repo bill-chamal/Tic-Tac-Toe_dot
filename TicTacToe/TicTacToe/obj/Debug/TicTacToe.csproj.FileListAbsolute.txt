@@ -1,0 +1,27 @@
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.SuggestedBindingRedirects.cache
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.AboutBox.resources
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.SettingsForm.resources
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.WinMessegeForm.resources
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
+C:\Users\basil\Documents\Visual Studio & JetBrains Net App C#\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe.config
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\bin\Debug\TicTacToe.exe
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\bin\Debug\TicTacToe.pdb
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.AssemblyReference.cache
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\obj\Debug\TicTacToe.AboutBox.resources
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Form1.resources
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\obj\Debug\TicTacToe.Properties.Resources.resources
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\obj\Debug\TicTacToe.SettingsForm.resources
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\obj\Debug\TicTacToe.WinMessegeForm.resources
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.GenerateResource.cache
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\obj\Debug\TicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\obj\Debug\TicTacToe.exe
+C:\Users\basil\Documents\Visual_Studio_and_JetBrains\TicTacToe\TicTacToe\obj\Debug\TicTacToe.pdb
